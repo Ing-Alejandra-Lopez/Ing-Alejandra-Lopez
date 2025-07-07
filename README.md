@@ -13,10 +13,5 @@
 <img align="left" height="135" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2wyMWthMDV2cG4weGwwOGRneHA4NTQ1aG8wcW83dXZnMXQ1andzOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.webp"/>
 
 ```diff
-🛠️ Ingeniería de Software.
-+  ✔️ Apasionada por la tecnología.
-#  🛡️ Ciberseguridad.
--  👩‍💻 Enfocada en Hacking Ético.
-!  📚 Aprendiendo todos los días.
-@@ 💻 Construyendo mi portafolio en GitHub. @@
+@@ 💻🛠️ Construyendo mi portafolio en GitHub. @@
 
